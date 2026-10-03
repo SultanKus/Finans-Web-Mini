@@ -1,0 +1,58 @@
+{
+  "sembol": "EREGL",
+  "ad": "Çelik Demir Sanayi A.Ş.",
+  "sektor": "Metal",
+  "para_birimi": "TRY",
+  "birim": "milyon",
+  "fk": 9.5,
+  "piyasa_degeri": 190000,
+  "hisse_sayisi": 3500,
+  "kaynak": "Örnek veri, KAP ile değiştirilecek",
+  "gercek_veri": false,
+  "donemler": {
+    "2024": {
+      "hisse_sayisi": 3500,
+      "bilanco": {
+        "donen_varliklar": 120000,
+        "duran_varliklar": 180000,
+        "toplam_varliklar": 300000,
+        "kisa_vadeli_yukumlulukler": 70000,
+        "uzun_vadeli_yukumlulukler": 50000,
+        "ozkaynaklar": 150000,
+        "gecmis_yil_karlari": 70000
+      },
+      "gelir": {
+        "hasilat": 210000,
+        "satis_maliyeti": 175000,
+        "brut_kar": 35000,
+        "faaliyet_kari": 28000,
+        "net_kar": 20000
+      },
+      "nakit": {
+        "faaliyet_nakit_akisi": 25000
+      }
+    },
+    "2023": {
+      "hisse_sayisi": 3500,
+      "bilanco": {
+        "donen_varliklar": 100000,
+        "duran_varliklar": 170000,
+        "toplam_varliklar": 270000,
+        "kisa_vadeli_yukumlulukler": 65000,
+        "uzun_vadeli_yukumlulukler": 45000,
+        "ozkaynaklar": 160000,
+        "gecmis_yil_karlari": 60000
+      },
+      "gelir": {
+        "hasilat": 180000,
+        "satis_maliyeti": 160000,
+        "brut_kar": 20000,
+        "faaliyet_kari": 12000,
+        "net_kar": 8000
+      },
+      "nakit": {
+        "faaliyet_nakit_akisi": 14000
+      }
+    }
+  }
+}
