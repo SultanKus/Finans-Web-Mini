@@ -1,0 +1,58 @@
+{
+  "sembol": "TUPRS",
+  "ad": "Rafineri Enerji A.Ş.",
+  "sektor": "Enerji",
+  "para_birimi": "TRY",
+  "birim": "milyon",
+  "fk": 5.0,
+  "piyasa_degeri": 275000,
+  "hisse_sayisi": 250,
+  "kaynak": "Örnek veri, KAP ile değiştirilecek",
+  "gercek_veri": false,
+  "donemler": {
+    "2024": {
+      "hisse_sayisi": 250,
+      "bilanco": {
+        "donen_varliklar": 210000,
+        "duran_varliklar": 190000,
+        "toplam_varliklar": 400000,
+        "kisa_vadeli_yukumlulukler": 150000,
+        "uzun_vadeli_yukumlulukler": 80000,
+        "ozkaynaklar": 170000,
+        "gecmis_yil_karlari": 90000
+      },
+      "gelir": {
+        "hasilat": 900000,
+        "satis_maliyeti": 800000,
+        "brut_kar": 100000,
+        "faaliyet_kari": 75000,
+        "net_kar": 55000
+      },
+      "nakit": {
+        "faaliyet_nakit_akisi": 80000
+      }
+    },
+    "2023": {
+      "hisse_sayisi": 240,
+      "bilanco": {
+        "donen_varliklar": 190000,
+        "duran_varliklar": 170000,
+        "toplam_varliklar": 360000,
+        "kisa_vadeli_yukumlulukler": 140000,
+        "uzun_vadeli_yukumlulukler": 75000,
+        "ozkaynaklar": 145000,
+        "gecmis_yil_karlari": 70000
+      },
+      "gelir": {
+        "hasilat": 860000,
+        "satis_maliyeti": 780000,
+        "brut_kar": 80000,
+        "faaliyet_kari": 60000,
+        "net_kar": 42000
+      },
+      "nakit": {
+        "faaliyet_nakit_akisi": 65000
+      }
+    }
+  }
+}
